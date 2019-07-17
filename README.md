@@ -1,6 +1,6 @@
 # What's this?
 
-- This is a best practice for ExpressJs that introduce to us how we create the ExpressJS App.
+- This is a best practice for ExpressJS that introduce to us how we create the ExpressJS App.
 - We referred the source codes from [here](https://www.tutorialspoint.com/expressjs/index.htm)!
 
 # Why ExpressJS?
