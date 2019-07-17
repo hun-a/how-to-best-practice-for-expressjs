@@ -17,4 +17,22 @@
   - When you deploy this App to production, you can install the `pm2` for managing NodeJS processes.
 - That's it!
 
+# How to run?
+
+- Use below command when simply run this App using default node executor.
+
+  ```
+  $ npm run start
+  ```
+
+- If you installed `nodemon` then run the below command.
+
+  > Note. Use `pm2` rather then `nodemon` in your production environment.
+
+  ```
+  $ npm run dev
+  ```
+
+- If you installed `nodemon` then run the below command.
+
 # Let's start coding for best practice!
