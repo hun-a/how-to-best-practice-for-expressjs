@@ -1,5 +1,5 @@
 {
-  "name": "what-is-best-practice-for-expressjs",
+  "name": "how-to-best-practice-for-expressjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "dev": "nodemon index.js --exec \"npm run lint && node\"",
     "lint": "eslint --ext .js ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "expressjs", "practice"],
+  "author": "hun-a",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
